@@ -1,5 +1,6 @@
 # 🚀 Quick Start Guide - Multi-Agent Design System
 
+![Frontend demo — Home screen](frontend-home.png)
 Complete step-by-step setup guide for the entire system.
 
 ---
