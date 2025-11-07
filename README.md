@@ -1,6 +1,6 @@
 # 🚀 Quick Start Guide - Multi-Agent Design System
 
-![Frontend demo — Home screen](Screenshot 2025-11-07 032003.png)
+![Frontend demo — Home screen](https://github.com/ShoaibShoukat2/AIAgents/blob/603ea4a8394668c663e362235a620e9e7057a7d9/Screenshot%202025-11-07%20032003.png)
 Complete step-by-step setup guide for the entire system.
 
 ---
